@@ -99,8 +99,8 @@ showMealPopUp=data=>{
                     <li><img class="checkImg" src="./checkIcon.png"> ${element.strIngredient8}</li>
                     <li><img class="checkImg" src="./checkIcon.png"> ${element.strIngredient7}</li>
                     <li><img class="checkImg" src="./checkIcon.png"> ${element.strIngredient8}</li>
-                    <li><img class="checkImg" src="./checkIcon.png"> ${element.strIngredient7}</li>
-                    <li><img class="checkImg" src="./checkIcon.png"> ${element.strIngredient8}</li>
+                    <li><img class="checkImg" src="./checkIcon.png"> ${element.strIngredient9}</li>
+                    <li><img class="checkImg" src="./checkIcon.png"> ${element.strIngredient10}</li>
                     
                 </ul>
             </div>
